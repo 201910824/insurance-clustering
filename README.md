@@ -37,7 +37,10 @@ insurance-clustering/
 │
 ├── requirement.txt/                       
 │
-├── README.md                       
+├── README.md 
+│
+├── presentation/
+│   └── insurance_clustering_summary.pptx                      
 
 
 
@@ -50,6 +53,10 @@ insurance-clustering/
 ## 📈 마케팅 전략 예시
 
 > 예: "고소득 석·박사 그룹은 온라인 채널 기반 고급 보장형 상품 마케팅"
+
+## 📊 발표 자료
+
+👉 [보험사 고객 군집화 프로젝트 발표자료 (PPTX)](./presentation/insurance_clustering_summary.pptx)
 
 
 ## 🙌 작성자
